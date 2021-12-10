@@ -1,0 +1,2 @@
+D:\xjw\windows实验二\StaticMath\Debug\MathLibrary.pdb
+D:\xjw\windows实验二\StaticMath\MathLibrary\Debug\MathLibrary.pdb
